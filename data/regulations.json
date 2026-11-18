@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "fincen_sar_overview",
+    "title": "FinCEN Suspicious Activity Report (SAR) overview",
+    "url": "https://www.fincen.gov/resources/filing-information",
+    "publisher": "FinCEN",
+    "text": "Suspicious activity reporting involves documenting activity that may warrant review and describing supporting facts. This is a project-authored summary, not a quotation or legal threshold. An analyst must assess applicability before filing.",
+    "topics": [
+      "fan_in",
+      "fan_out",
+      "circular_flow",
+      "possible_structuring"
+    ]
+  },
+  {
+    "source_id": "fincen_bsa",
+    "title": "FinCEN Bank Secrecy Act overview",
+    "url": "https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act",
+    "publisher": "FinCEN",
+    "text": "The Bank Secrecy Act establishes recordkeeping and reporting obligations for covered financial institutions. This project-authored summary is informational, not legal advice.",
+    "topics": [
+      "fan_in",
+      "fan_out",
+      "circular_flow",
+      "possible_structuring"
+    ]
+  },
+  {
+    "source_id": "fincen_structuring",
+    "title": "FinCEN Structuring information",
+    "url": "https://www.fincen.gov/resources/statutes-regulations/guidance",
+    "publisher": "FinCEN",
+    "text": "Structuring concerns patterns of transactions designed to evade applicable reporting requirements. Repeated transfers alone do not establish intent; contextual investigation is required. Project-authored summary, not a verbatim regulatory passage.",
+    "topics": [
+      "possible_structuring"
+    ]
+  },
+  {
+    "source_id": "finra_aml",
+    "title": "FINRA Anti-Money Laundering",
+    "url": "https://www.finra.org/rules-guidance/key-topics/aml",
+    "publisher": "FINRA",
+    "text": "FINRA describes anti-money laundering program expectations for covered member firms, including monitoring and escalation. Applicability depends on the institution. Project-authored summary, not a verbatim regulatory passage.",
+    "topics": [
+      "fan_in",
+      "fan_out",
+      "circular_flow",
+      "possible_structuring"
+    ]
+  }
+]
